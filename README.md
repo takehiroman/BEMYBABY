@@ -8,5 +8,4 @@ npm install
 node app.js
 ```
 
-## Example
-![](sample.png)
+
